@@ -3,7 +3,7 @@
     "document_id": "Ba88osIC0vhEE48thFde",
     "original_document_id": "kgZrmxXjqCS6n_rYeycs",
     "version": "23",
-    "lastChanged": "1582126238594",
+    "lastChanged": "1582187143832",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -145,9 +145,6 @@
                         "Cross Hint",
                         "Textures",
                         "7"
-                    ],
-                    [
-                        "Default Textures"
                     ],
                     [
                         "Default Textures",
@@ -1880,6 +1877,11 @@
                     [
                         "testReduce",
                         "Materials0",
+                        "8592572811_06e39c1a57_o"
+                    ],
+                    [
+                        "testReduce",
+                        "Materials0",
                         "lambert3 3"
                     ],
                     [
@@ -2313,6 +2315,7 @@
                     "1536877886036499:468400",
                     "1536877886036576:468430",
                     "1536877886036602:468442",
+                    "1536881644172012:378434",
                     "1537811679537102:77991",
                     "1537811679537401:78030",
                     "1537811679537897:78246",
@@ -6039,6 +6042,14 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "0"
+                },
+                {
+                    "resId": "1516",
+                    "uid": "1582128347569197:60784",
+                    "name": "Files\/File471.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -7501,6 +7512,14 @@
                 {
                     "k": "470",
                     "v": "Files\/File470.oprfb"
+                },
+                {
+                    "k": "471",
+                    "v": "Files\/File471.jpg"
+                },
+                {
+                    "k": "472",
+                    "v": "Files\/File472.jpg"
                 }
             ]
         },
@@ -8132,6 +8151,10 @@
                     {
                         "k": "838",
                         "v": "..\/AdditionalFiles\/newReduce4\/Materials\/lambert5 2.lsmat"
+                    },
+                    {
+                        "k": "839",
+                        "v": "..\/AdditionalFiles\/testReduce\/Materials0\/8592572811_06e39c1a57_o.jpg"
                     }
                 ],
                 "hashes": [
@@ -8293,7 +8316,7 @@
                     },
                     {
                         "k": "61",
-                        "v": "6448565517707bf3d89065c36afbf49e"
+                        "v": "90eaa37ce89817d5fa85654fa2c373b3"
                     },
                     {
                         "k": "63",
@@ -8337,7 +8360,7 @@
                     },
                     {
                         "k": "74",
-                        "v": "9254788af9ee6c38918156489bdea94b"
+                        "v": "59d9ee5305dc6ad0987aa36182029512"
                     },
                     {
                         "k": "75",
@@ -8614,6 +8637,14 @@
                     {
                         "k": "838",
                         "v": "4cfa7982e5b3f342ff78414bfecfe413"
+                    },
+                    {
+                        "k": "839",
+                        "v": "debacc10ed19dc2c200524185abc5ce7"
+                    },
+                    {
+                        "k": "840",
+                        "v": "9e6e1b1c8bf457b483e31efd4a0b896b"
                     }
                 ],
                 "publicState": {
@@ -8621,7 +8652,7 @@
                         "isFolder": "true",
                         "lastModified": "2020-02-19T17:28:20",
                         "name": "Public",
-                        "hash": "f49a1365966d95f14ee1d885efed7219",
+                        "hash": "b4f0b2940675766de1d64c09bd582614",
                         "children": [
                             {
                                 "isFolder": "false",
@@ -8632,7 +8663,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-02-19T16:35:36",
+                                "lastModified": "2020-02-19T16:35:32",
                                 "name": "Textures",
                                 "hash": "67efcc04832d919b03bb787be2c5795d",
                                 "children": [
@@ -8682,7 +8713,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-02-19T16:35:36",
+                                "lastModified": "2020-02-19T16:35:32",
                                 "name": "Tween",
                                 "hash": "ac6ec5c22432c8713637eef9fc2ade3c",
                                 "children": [
@@ -8753,9 +8784,9 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-02-19T17:28:13",
+                                "lastModified": "2020-02-20T08:55:09",
                                 "name": "Refraction.lsmat",
-                                "hash": "145b25159b62ff8132cbafeca8b4cc5b",
+                                "hash": "def3adc72271eb18111d3a99edf28986",
                                 "children": ""
                             },
                             {
@@ -8788,9 +8819,9 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-02-19T17:28:13",
+                                "lastModified": "2020-02-20T08:55:09",
                                 "name": "Hologram.lsmat",
-                                "hash": "a7910a7df449865905a99ac97fec5e6d",
+                                "hash": "8b9cdccf835b42546c716dab3c53b24e",
                                 "children": ""
                             },
                             {
@@ -8809,7 +8840,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-02-19T16:35:36",
+                                "lastModified": "2020-02-19T16:35:32",
                                 "name": "Marker with Snapcode Template",
                                 "hash": "dbdf452659802c994f56760c94ef18f6",
                                 "children": [
@@ -9013,7 +9044,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-02-19T16:35:36",
+                                "lastModified": "2020-02-19T16:35:32",
                                 "name": "Mark in the City Example [REMOVE_ME]",
                                 "hash": "773d0e7c43c9476a8170b72448e0406e",
                                 "children": [
@@ -9188,7 +9219,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-02-19T16:35:36",
+                                "lastModified": "2020-02-19T16:35:32",
                                 "name": "Default Textures",
                                 "hash": "5d0daf4be82fee50df678f1d3a4975ad",
                                 "children": [
@@ -9217,7 +9248,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-02-19T16:35:39",
+                                "lastModified": "2020-02-19T16:35:38",
                                 "name": "ParticleMaterials",
                                 "hash": "507b54bec4d8dadc3a125fba16601aa0",
                                 "children": [
@@ -9304,7 +9335,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-02-19T16:35:42",
+                                "lastModified": "2020-02-19T16:35:40",
                                 "name": "Cross Hint",
                                 "hash": "0c07b3d9b2241b42ca2d4212eedd7010",
                                 "children": [
@@ -9581,7 +9612,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-02-19T16:35:42",
+                                "lastModified": "2020-02-19T16:35:40",
                                 "name": "ParticleResources",
                                 "hash": "7669ddec034487b627f6198a18264775",
                                 "children": [
@@ -11179,6 +11210,19 @@
                                         "originalId": "383",
                                         "publicId": "808",
                                         "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "8592572811_06e39c1a57_o",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "1516",
+                                        "dependency": "0",
+                                        "uid": "1582128347569197:60784",
+                                        "fileId": "471",
+                                        "originalId": "472",
+                                        "publicId": "839",
+                                        "source": "\/Users\/aid\/Desktop\/catalog\/8592572811_06e39c1a57_o.jpg",
                                         "additional": ""
                                     }
                                 ]
@@ -16822,7 +16866,11 @@
             }
         },
         "InspectorController": {
-            "selection": ""
+            "selection": {
+                "objects": [
+                    "1582124455898838:1338553"
+                ]
+            }
         },
         "EffectsController": {
             "1": "",
